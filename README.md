@@ -75,6 +75,6 @@ Checkout the demo here: https://youtu.be/fDc5ZERXJ7c
 Contributions to StudyDash are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request on the GitHub repository.
 
 ## License 📜
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 
