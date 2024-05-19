@@ -68,6 +68,8 @@ To get started with StudyDash locally, follow these steps:
 
 ## Video Demo ⚡
 
+Checkout the demo here: https://youtu.be/fDc5ZERXJ7c
+
 
 ## Contributing 🤝
 Contributions to StudyDash are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request on the GitHub repository.
