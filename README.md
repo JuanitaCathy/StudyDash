@@ -51,6 +51,17 @@ To get started with StudyDash locally, follow these steps:
 - **Sentiment:** Model for sentiment analysis.
 - **Bling Phi 3 GGUF:** Model for interactive chatbot responses.
 
+## Screenshots
+![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/d8ed7f12-b10b-446f-8097-b56e942b2278) 
+
+![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/0df3330e-6f00-48c7-9baf-e3b9d60c55c5) 
+
+![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/2f278b6e-e4f6-4ba5-b5fb-2aef0375396b)
+
+![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/c5a671e0-130a-47c6-9d4c-6d01ca727d9b)
+
+
+
 ## Contributing 🤝
 Contributions to StudyDash are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request on the GitHub repository.
 
