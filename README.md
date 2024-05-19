@@ -54,17 +54,19 @@ To get started with StudyDash locally, follow these steps:
 ## Screenshots
 
       
-![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/d8ed7f12-b10b-446f-8097-b56e942b2278)       
+![image](assets/home.png)
 **⚡Home Screen**
 
-![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/0df3330e-6f00-48c7-9baf-e3b9d60c55c5)      
+![image](assets/summarize.png)      
 **🎄Summarize Screen**
 
-![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/2f278b6e-e4f6-4ba5-b5fb-2aef0375396b)
+![image](assets/sentiment.png)
 **🚀Sentiment Analysis Screen**
 
-![image](https://github.com/JuanitaCathy/StudyDash/assets/114871036/c5a671e0-130a-47c6-9d4c-6d01ca727d9b)
+![image](assets/chatbot.png)
 **🤖Chatbot Screen**
+
+## Video Demo ⚡
 
 
 ## Contributing 🤝
