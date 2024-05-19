@@ -21,7 +21,7 @@ StudyDash is an advanced study companion application designed to streamline your
 StudyDash leverages the capabilities of LLMWare, a powerful AI platform, to provide advanced study features:
 
 - **Document Summarization:** Utilizes LLMWare's `slim-summary-tool` model for generating concise summaries.
-- **Sentiment Analysis:** Implements LLMWare's `sentiment` tool for analyzing the sentiment of text inputs.
+- **Sentiment Analysis:** Implements LLMWare's `LLMfx sentiment` tool for analyzing the sentiment of text inputs.
 - **Chatbot:** Integrates LLMWare's `bling-phi-3-gguf` model for interactive chatbot responses.
 
 ## Getting Started 🚀
@@ -47,9 +47,9 @@ To get started with StudyDash locally, follow these steps:
 
 ## Models Used 🤖
 
-- **Slim Summary Tool:** Model for document summarization.
-- **Sentiment:** Model for sentiment analysis.
-- **Bling Phi 3 GGUF:** Model for interactive chatbot responses.
+- **Summarization:** `slim-summary-tool` Efficiently distills key information from large texts.
+- **Sentiment Analysis:** `LLMfx sentiment` Accurately gauges the sentiment of texts with high confidence scores.
+- **QnA Bot:** `bling-phi-3-gguf` Model for interactive chatbot responses.
 
 ## Screenshots
 
